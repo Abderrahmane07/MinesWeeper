@@ -1,0 +1,13 @@
+C:\Users\Abderrahmane\source\repos\MinesWeeperProject\MinesWeeper\bin\Debug\netcoreapp3.1\MinesWeeper.exe
+C:\Users\Abderrahmane\source\repos\MinesWeeperProject\MinesWeeper\bin\Debug\netcoreapp3.1\MinesWeeper.deps.json
+C:\Users\Abderrahmane\source\repos\MinesWeeperProject\MinesWeeper\bin\Debug\netcoreapp3.1\MinesWeeper.runtimeconfig.json
+C:\Users\Abderrahmane\source\repos\MinesWeeperProject\MinesWeeper\bin\Debug\netcoreapp3.1\MinesWeeper.runtimeconfig.dev.json
+C:\Users\Abderrahmane\source\repos\MinesWeeperProject\MinesWeeper\bin\Debug\netcoreapp3.1\MinesWeeper.dll
+C:\Users\Abderrahmane\source\repos\MinesWeeperProject\MinesWeeper\bin\Debug\netcoreapp3.1\MinesWeeper.pdb
+C:\Users\Abderrahmane\source\repos\MinesWeeperProject\MinesWeeper\obj\Debug\netcoreapp3.1\MinesWeeper.csprojAssemblyReference.cache
+C:\Users\Abderrahmane\source\repos\MinesWeeperProject\MinesWeeper\obj\Debug\netcoreapp3.1\MinesWeeper.AssemblyInfoInputs.cache
+C:\Users\Abderrahmane\source\repos\MinesWeeperProject\MinesWeeper\obj\Debug\netcoreapp3.1\MinesWeeper.AssemblyInfo.cs
+C:\Users\Abderrahmane\source\repos\MinesWeeperProject\MinesWeeper\obj\Debug\netcoreapp3.1\MinesWeeper.csproj.CoreCompileInputs.cache
+C:\Users\Abderrahmane\source\repos\MinesWeeperProject\MinesWeeper\obj\Debug\netcoreapp3.1\MinesWeeper.dll
+C:\Users\Abderrahmane\source\repos\MinesWeeperProject\MinesWeeper\obj\Debug\netcoreapp3.1\MinesWeeper.pdb
+C:\Users\Abderrahmane\source\repos\MinesWeeperProject\MinesWeeper\obj\Debug\netcoreapp3.1\MinesWeeper.genruntimeconfig.cache
